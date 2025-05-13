@@ -2,9 +2,9 @@
 #include <graphics.h>
 #include <conio.h>
 
-#define CARD_IMAGE_BASE_PATH _T("D:\\´ó×÷Òµ\\Source\\PNG\\") 
+#define CARD_IMAGE_BASE_PATH _T("D:\\Â´Ã³Ã—Ã·Ã’Âµ\\Source\\PNG\\") 
 #define CARD_BACK_IMAGE      _T("Background.png")   
 
-// Í¼Æ¬³ß´ç
+// 
 const int CARD_WIDTH = 120;
 const int CARD_HEIGHT = 160;
